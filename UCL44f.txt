@@ -1,6 +1,6 @@
 !"The influence of ethanol addition on a rich premixed benzene flame at low pressure"
 ! Veronique Dias, Haddy Mbuyi Katshiatshia, Herve Jeanmart
-!Submitted in Combustion and Flame, 2013
+!Accepted in Combustion and Flame, 2014
 
 ELEMENTS
  O H C AR N 
