@@ -1,6 +1,6 @@
 !UCL-Mechanism 
 !"Experimental and modeling studies of the acetone addition in H2/O2/Ar flames at low pressure"
-!Acceptation for oral presentation at the 35th International Symposium of Combustion (2015)
+!Proc. Combust. Inst. (2014) http://dx.doi.org/10.1016/j.proci.2014.05.055.
 !Veronique Dias, Jacques Vandooren and Herve Jeanmart
 
 ELEMENTS
